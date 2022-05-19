@@ -4,3 +4,16 @@ print("Hello world")
 
 
 print("C'est: un aveugle qui rentre dans un bar... \n pis dans une table... \n pis dans une chaise....")
+
+
+
+
+
+
+
+
+
+
+
+print("Monte-Carlo")
+print("Git 100")
