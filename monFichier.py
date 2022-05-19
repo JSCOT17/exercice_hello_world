@@ -17,3 +17,5 @@ print("C'est: un aveugle qui rentre dans un bar... \n pis dans une table... \n p
 
 print("Monte-Carlo")
 print("Git 100")
+print("Monte-Carli")
+print("Git 100")
